@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-daniel8824-del-forest-fire-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-daniel8824-del-forest-fire-mcp)
+
 # 산불 정보 시각화 MCP 서버
 
 ## 소개
